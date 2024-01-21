@@ -1,4 +1,4 @@
-# Random number generator cgi script
+# Random number generator cgi script in C
 this is a simple random number generator cgi script written in c
 
 ## compilation
